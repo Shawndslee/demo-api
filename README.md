@@ -4,3 +4,5 @@
 1、使用Github workflow 自动打包到 Maven仓库
 
 2、使用Github workflow 自动执行测试
+
+3、其他
