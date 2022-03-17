@@ -10,7 +10,7 @@
     </parent>
     <groupId>dev.shawn</groupId>
     <artifactId>demo-api</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>demo-api</name>
     <description>demo-api</description>
     <properties>
@@ -75,5 +75,11 @@
             </plugin>
         </plugins>
     </build>
-
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/shawndslee/demo-api</url>
+        </repository>
+    </distributionManagement>
 </project>
