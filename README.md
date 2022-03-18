@@ -1,3 +1,4 @@
+[![Publish](https://github.com/Shawndslee/demo-api/actions/workflows/maven.yml/badge.svg)](https://github.com/Shawndslee/demo-api/actions/workflows/maven.yml)
 # demo-api
 
 ### Java学习工程
